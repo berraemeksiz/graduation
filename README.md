@@ -27,5 +27,5 @@ Copy code
     font-size: 16px; /* Metin boyutu */
     cursor: pointer; /* Fare üzerine gelince el işareti göster */
 }
-7. sitenin görünürlüğü(renk,estetiklik)
+7. sitenin görünürlüğü(renk,estetiklik): https://www.markdownguide.org/basic-syntax/
 8. koşullandırma 
