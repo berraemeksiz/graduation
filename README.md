@@ -1,10 +1,11 @@
 # graduation
 #STAGES
 1. Araştırma: iklim değişikliği hakkında bilgi edinip dökümanları toplama
-2. modul oluşturma
-3. Tasarım Aşaması
-4. HTML
-5. CSS
+2. modul oluşturma:
+templates,main.py
+4. Tasarım Aşaması
+5. HTML
+6. CSS
    ÖRNEK:
    Web sitenize bir buton eklemek için HTML ve CSS kullanabilirsiniz. İşte basit bir buton oluşturma örneği:
 HTML Kodu:
